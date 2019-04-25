@@ -30,6 +30,7 @@ def pysum_triplet(sum_value):
             break
     # se calcula la multiplicacion deseada
     result = a*b*c
+    # se imprime el numero de iteraciones necesarias para encontrar la tupla
     print(i)
     return result
 
